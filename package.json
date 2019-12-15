@@ -1,0 +1,24 @@
+{
+  "name": "b-amazon",
+  "version": "1.0.0",
+  "description": "faux online store",
+  "main": "B-Amazon-customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunsin27/B-Amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunsin27/B-Amazon/issues"
+  },
+  "homepage": "https://github.com/Bunsin27/B-Amazon#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  }
+}
